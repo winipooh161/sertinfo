@@ -6,8 +6,6 @@ window.bootstrap = bootstrap;
 import IMask from 'imask';
 window.IMask = IMask;
 
-// Импортируем функции для управления боковой панелью
-import { initSidebar, initSidebarCollapse } from './sidebar';
 
 
 /**
